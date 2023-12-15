@@ -4,3 +4,6 @@
 [submodule "web-interface"]
 	path = web-interface
 	url = https://github.com/pmclin2/web-interface
+[submodule "Phase2"]
+	path = Phase2
+	url = https://github.com/ECE461Team16/Phase2
