@@ -1,0 +1,6 @@
+[submodule "phase2-lambdas"]
+	path = phase2-lambdas
+	url = https://github.com/ECE461Team16/phase2-lambdas
+[submodule "web-interface"]
+	path = web-interface
+	url = https://github.com/pmclin2/web-interface
